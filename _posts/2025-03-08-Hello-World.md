@@ -15,7 +15,7 @@ As with any new project, it only feels right to start with a Hello World! post.
 I have run a homelab in some form for many years now, and has been instrumental in my career progression ...so why the blog, and why now? Before I answer that, allow me to quickly introduce myself:
 - My name is **Andrew**
 - My Cloud provider of choice is **Azure**
-- My current role is **Cloud and Infrastructre Architect** (as of Dec 2023)
+- My current role is **Senior Cloud and Infrastructre Architect** (as of Dec 2023)
 - My previous roles can be grouped into SysAdmin, Cloud Engineer, and DevOps Engineer
 
 I may give a full walkthrough of my career at some point (or maybe just publish a sanitised CV) but during my previous few jobs I've tackled on-prem to Cloud migrations, full domain rebuilds, and oh so much automation. The two standout automation projects were:
