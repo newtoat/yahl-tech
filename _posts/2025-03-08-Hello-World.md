@@ -39,7 +39,7 @@ So there we go, starting a blog feels like a natural progression to my homelab t
 
 Initially, I want to create an article diving into exactly what the current state of my Homelab is. Followed by more details on my plans for the Homelab - why I want to do them and how I'm hoping to achieve them. And probably also a post about how my Homelab has evolved over the years, I've tried a lot of things and not everything worked out...
 
-After that, I'll start working through the different services that I am running, how I've configured them, and any other thoughts I have. The first couple will likely be **Blocky** ([GitHub](https://github.com/0xERR0R/blocky)), **MetalLB** ([GitHub](https://github.com/metallb/metallb)) and **Coder** ([Github](https://github.com/coder/coder) as I struggled to find many articles to help me when I was setting them up!
+After that, I'll start working through the different services that I am running, how I've configured them, and any other thoughts I have. The first couple will likely be **Blocky** ([GitHub](https://github.com/0xERR0R/blocky)), **MetalLB** ([GitHub](https://github.com/metallb/metallb)) and **Coder** ([Github](https://github.com/coder/coder)) as I struggled to find many articles to help me when I was setting them up!
 
 ---
 
