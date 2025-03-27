@@ -2,7 +2,7 @@
 
 title: Hello, Infrastructure!
 description: What does my homelab run on and how does it all work
-# date: 2025-03-08
+date: 2025-03-26
 categories: [Homelab, Overview]
 tags: [introduction, overview, infrastructure]      # TAG names should always be lowercase
 media_subpath: /assets/posts/Hello-Infrastructure   # Make it easier to reference media if needed
