@@ -1,9 +1,10 @@
 ---
 
 title: Hello, World!
+description: Who am I, Why have I started this blog, and what am I running?
 date: 2025-03-08
 categories: [Homelab, Overview]
-tags: [homelab]     # TAG names should always be lowercase
+tags: [introduction]     # TAG names should always be lowercase
 pin: true
 
 ---

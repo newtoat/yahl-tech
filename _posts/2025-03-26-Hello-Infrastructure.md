@@ -59,15 +59,11 @@ Not one to say no, I then configured them to boot from the storage server over t
 
 I have a fantastic little case to store four of these together:
 
-<div class="row" style="justify-content: space-around; display: flex;">
-    <div class="col">
-        <img src="Pi-Stack-Front.JPG" alt="Front view of a case to hold 4 Raspberry Pi's" width="350" style="padding:1rem; min-width:300px;"  loading="lazy">
-    </div>
-    <div class="col">
-        <img src="Pi-Stack-Rear.JPG" alt="Rear view of a case to hold 4 Raspberry Pi's, showing off the integrated fans" width="350" style="padding:1rem; min-width:300px;" loading="lazy">
-    </div>
-</div>
+![Front view of a case to hold 4 Raspberry Pi's](Pi-Stack-Front.JPG){: width="350" height="200" .left}
+![Rear view of a case to hold 4 Raspberry Pi's, showing off the integrated fans](Pi-Stack-Rear.JPG){: width="350" height="200" .right}
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### HP Proliant DL360 Gen 9
 This was given to me from the company my partner was working from at the time. I think it had just gone out of basic support so they bought a new server for the office and they asked if anyone wanted it. I very excitedly met her after work to collect my new server... though we did get told off by a traffic warden for stopping in the loading bay. In my defense, those things are heavy and difficult to carry solo!
@@ -81,7 +77,7 @@ First off, I want to say that the network architecture isn't great. The homelab 
 I'll skip over how connectivity works for the moment as I think that suits the application overview post more. For now, here is a physical connectivity diagram:
 
 ![Physical network diagram](/infrastructure.drawio.svg)
-_Diagram showing the networking within my home. Note that unless otherwise specified, connections are Gigabit ethernet_
+Diagram showing the networking within my home. Note that unless otherwise specified, connections are Gigabit ethernet
 
 ### Internet
 Home internet is provided by Virgin Media, specifically Virgin Media Business. We had no need for a phone line or tv package, so the sales rep offered business broadband to us - This worked out as 400Mbps for ~£33/month and came with an upgraded router compared to regular. The deals are a lot more comparable now compared to a few years ago.
@@ -192,7 +188,6 @@ As above, I'm still running Proxmox 8.1.3. Proxmox 8.3 is out now and I expect 8
 The ultimate goal for me is to have the ability to image a server using the JetKVM device. Then kick off Ansible runbooks to customise and finish setting up the server for normal usage.
 > This is mostly aimed at the Proxmox hosts, I'm not sure if I feel comfortable automating TrueNAS to the same level. TrueNAS's config can be exported to a config file anyway
 {: .prompt-tip}
-
 
 ## Thanks
 That's it for now. There's a lot of info up there but hopefully it sets the scene reasonably well. This post focussed on the infrastructure powering my homelab, stay tuned for a follow up post focusing on how it runs and what I'm hosting!

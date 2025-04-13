@@ -12,4 +12,16 @@ There may also be some non-homelab posts from time to time if I think it's uniqu
 ## Who am I?
 As a brief introduction, my name is Andrew and I am a Senior Cloud and Infrastructure Architect. I also have a background in DevOps and automation.
 
-Be sure to check out my intro post if you want more details on why I am doing this - [Hello, World!]({% link _posts/2025-03-08-Hello-World.md %})
+
+
+## Quick links
+
+[Hello, World!]({% link _posts/2025-03-08-Hello-World.md %}) - why I started this blog.
+
+[Hello, Infrastructure!]({% link _posts/2025-03-26-Hello-Infrastructure.md %}) - the infrastructure my homelab runs on.
+
+[Hello, Platform!]({% link _posts/2025-04-12-Hello-Platform.md %}) - the tools and services that make up my homelab platform.
+
+[Hello, Applications!]({% link _posts/2025-04-13-Hello-Applications.md %}) - the applications I have running.
+
+
